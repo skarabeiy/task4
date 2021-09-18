@@ -1,0 +1,23 @@
+letscode/sarafan/exceptions/NotFoundException.java
+ letscode.sarafan.exceptions.NotFoundException
+letscode/sarafan/repo/UserDetailsRepo.java
+ letscode.sarafan.repo.UserDetailsRepo
+letscode/sarafan/domain/User.java
+ letscode.sarafan.domain.User
+letscode/sarafan/config/WebSecurityConfig.java
+ letscode.sarafan.config.WebSecurityConfig
+letscode/sarafan/domain/Views.java
+ letscode.sarafan.domain.Views
+ letscode.sarafan.domain.Views$FullMessage
+ letscode.sarafan.domain.Views$Id
+ letscode.sarafan.domain.Views$IdName
+letscode/sarafan/SarafanApplication.java
+ letscode.sarafan.SarafanApplication
+letscode/sarafan/controller/MessageController.java
+ letscode.sarafan.controller.MessageController
+letscode/sarafan/controller/MainController.java
+ letscode.sarafan.controller.MainController
+letscode/sarafan/repo/MessageRepo.java
+ letscode.sarafan.repo.MessageRepo
+letscode/sarafan/domain/Message.java
+ letscode.sarafan.domain.Message

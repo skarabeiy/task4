@@ -1,0 +1,22 @@
+# Outputs
+*.class
+target/
+*target*
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# IDEA Files
+.idea/
+*.iml
+
+# External tool builders
+.externalToolBuilders/
+
+# Code Recommenders
+.recommenders/
+
+# Logs
+*.log
